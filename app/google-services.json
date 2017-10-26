@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "901822947139",
+    "firebase_url": "https://imagedatabase-ffc8f.firebaseio.com",
+    "project_id": "imagedatabase-ffc8f",
+    "storage_bucket": "imagedatabase-ffc8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901822947139:android:69eca79d2ff70fae",
+        "android_client_info": {
+          "package_name": "com.example.thjen.firebaseimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901822947139-trnika4or3suod1tgmt56p9tt591s28t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFIrCCpprI2-57bKNeSAnEPzvdvekhAn8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
